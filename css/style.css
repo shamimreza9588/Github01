@@ -12,3 +12,23 @@ body {
 	background-color: teal;
 	position: relative;
 }
+#sec01 .list01 {
+	width: 100%;
+	height: 60px;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	background-color: orange;
+}
+#sec01 .list01 li {
+	width: 20%;
+	float: left;
+	text-align: center;
+}
+#sec01 .list01 li a {
+	display: block;
+	color: #fff;
+	line-height: 60px;
+	text-decoration: none;
+	font-size: 30px;
+	text-transform: uppercase;
